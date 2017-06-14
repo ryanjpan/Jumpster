@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					94014CD71DCD0B93007DC371 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = DV837GB4A8;
 						ProvisioningStyle = Automatic;
 					};
 					94014CEB1DCD0B94007DC371 = {
@@ -410,11 +411,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DV837GB4A8;
 				INFOPLIST_FILE = Jumpster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Ryan.Jumpster;
+				PRODUCT_BUNDLE_IDENTIFIER = com.RyanjPan.Jumpster;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -422,11 +424,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DV837GB4A8;
 				INFOPLIST_FILE = Jumpster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Ryan.Jumpster;
+				PRODUCT_BUNDLE_IDENTIFIER = com.RyanjPan.Jumpster;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
